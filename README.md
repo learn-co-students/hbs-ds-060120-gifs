@@ -52,7 +52,7 @@ Your gif here!
 ### Thomas
 Your gif here!
 ### Yazan
-Your gif here!
+![Friday](images/yazan.gif)
 ### Yongwei
 Your gif here!
 ### Yuki
