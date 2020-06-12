@@ -22,7 +22,9 @@ Your gif here!
 ### Cong
 Your gif here!
 ### Jay
-Your gif here!
+
+![data science!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflatironschool.com%2Fblog%2Fdata-analyst-vs-data-scientist%2F&psig=AOvVaw0jej3fVzGrY54PsWi2jzFl&ust=1592056217511000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDD79-1_OkCFQAAAAAdAAAAABAD)
+
 ### John
 Your gif here!
 ### Joshua
