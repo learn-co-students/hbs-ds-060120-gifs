@@ -6,7 +6,7 @@ Find a GIF or image that summarizes how you're feeling about today being Friday.
 Check the "Pull requests" tab to see both merged and unmerged examples of what your PR should look like!
 
 ### Adebodun
-! [Feel good Friday!] (https://media.tenor.com/images/7fd0b0a6c6a9d87ab96735c918eb1e8a/tenor.gif)
+![Feel good Friday!](https://media.tenor.com/images/7fd0b0a6c6a9d87ab96735c918eb1e8a/tenor.gif)
 ### Ammar
 Your gif here!
 ### Andy
