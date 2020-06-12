@@ -20,7 +20,7 @@ Your gif here!
 ### Colm
 Your gif here!
 ### Cong
-Your gif here!
+![Weekly progression](images/giphy.gif)
 ### Jay
 Your gif here!
 ### John
