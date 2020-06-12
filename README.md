@@ -14,7 +14,7 @@ Your gif here!
 ### Aziz
 Your gif here!
 ### Carmi
-Your gif here!
+![friday tg](https://media.giphy.com/media/NeKB8ZR67TuV2/giphy.gif)
 ### Cathy
 Your gif here!
 ### Colm
