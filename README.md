@@ -54,7 +54,7 @@ Your gif here!
 ### Thomas
 Your gif here!
 ### Yazan
-Your gif here!
+![Friday](images/yazan.gif)
 ### Yongwei
 ![iii](https://i.pinimg.com/474x/84/9b/63/849b636ec25a4f8badbf66acfff2d0c7--photoshop-pics-mr-bean.jpg)
 ### Yuki
