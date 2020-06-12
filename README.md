@@ -30,7 +30,7 @@ Your gif here!
 ### Kaitlin
 Your gif here!
 ### Kyle
-Your gif here!
+![This is fine.](https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif)
 ### Lindsey
 
 ![I have no idea what I'm doing left shark gif from Giphy](https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif)
