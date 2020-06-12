@@ -18,7 +18,9 @@ Your gif here!
 ### Cathy
 Your gif here!
 ### Colm
-![Andy from Parks & Rec](https://github.com/learn-co-students/hbs-ds-060120-gifs.git)
+
+![Andy from Parks & Rec gif](https://media.giphy.com/media/90F8aUepslB84/giphy.gif)
+
 ### Cong
 Your gif here!
 ### Jay
