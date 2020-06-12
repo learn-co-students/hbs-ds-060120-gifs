@@ -24,7 +24,7 @@ Your gif here!
 ### Jay
 Your gif here!
 ### John
-Your gif here!
+![Zzz... I'm awake! I'm working!](images/jrsyguo.gif)
 ### Joshua
 Your gif here!
 ### Kaitlin
