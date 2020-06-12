@@ -14,25 +14,25 @@ Your gif here!
 ### Aziz
 Your gif here!
 ### Carmi
-Your gif here!
+![friday tg](https://media.giphy.com/media/NeKB8ZR67TuV2/giphy.gif)
 ### Cathy
 Your gif here!
 ### Colm
 Your gif here!
 ### Cong
-Your gif here!
+![Weekly progression](images/giphy.gif)
 ### Jay
 
 ![data science!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflatironschool.com%2Fblog%2Fdata-analyst-vs-data-scientist%2F&psig=AOvVaw0jej3fVzGrY54PsWi2jzFl&ust=1592056217511000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDD79-1_OkCFQAAAAAdAAAAABAD)
 
 ### John
-Your gif here!
+![Zzz... I'm awake! I'm working!](images/jrsyguo.gif)
 ### Joshua
 Your gif here!
 ### Kaitlin
 Your gif here!
 ### Kyle
-Your gif here!
+![This is fine.](https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif)
 ### Lindsey
 
 ![I have no idea what I'm doing left shark gif from Giphy](https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif)
@@ -44,18 +44,20 @@ Your gif here!
 ### Marta
 Your gif here!
 ### Paige
-Your gif here!
+![I don't know what that is](https://media.giphy.com/media/3o6ZtdmjXxchXJqxHO/giphy.gif)
 ### Quentin
 Your gif here!
 ### Reginald
 Your gif here!
 ### Rocio
-Your gif here!
+
+![Can't Wait to Dance](images/rocio.gif)
+
 ### Thomas
 Your gif here!
 ### Yazan
-Your gif here!
+![Friday](images/yazan.gif)
 ### Yongwei
-Your gif here!
+![iii](https://i.pinimg.com/474x/84/9b/63/849b636ec25a4f8badbf66acfff2d0c7--photoshop-pics-mr-bean.jpg)
 ### Yuki
 Your gif here!
