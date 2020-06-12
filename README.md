@@ -23,7 +23,7 @@ Your gif here!
 ![Weekly progression](images/giphy.gif)
 ### Jay
 
-![data science!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflatironschool.com%2Fblog%2Fdata-analyst-vs-data-scientist%2F&psig=AOvVaw0jej3fVzGrY54PsWi2jzFl&ust=1592056217511000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDD79-1_OkCFQAAAAAdAAAAABAD)
+![data science!](https://storage.googleapis.com/proudcity/elglor/uploads/2019/01/giphy1-1.gif)
 
 ### John
 ![Zzz... I'm awake! I'm working!](images/jrsyguo.gif)
