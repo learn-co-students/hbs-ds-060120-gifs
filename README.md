@@ -8,7 +8,7 @@ Check the "Pull requests" tab to see both merged and unmerged examples of what y
 ### Adebodun
 Your gif here!
 ### Ammar
-Your gif here!
+![Image of banana should be visible here](https://media.giphy.com/media/ZYoFTHxrWNFbW/giphy.gif)
 ### Andy
 ![Computers are hard](images/andy.gif)
 ### Aziz
