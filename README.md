@@ -26,7 +26,8 @@ Your gif here!
 ### John
 Your gif here!
 ### Joshua
-Your gif here!
+Git tutorial test run 2!
+![I have no idea what I'm doing left shark gif from Giphy](https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif)
 ### Kaitlin
 Your gif here!
 ### Kyle
