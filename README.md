@@ -48,7 +48,9 @@ Your gif here!
 ### Reginald
 Your gif here!
 ### Rocio
-Your gif here!
+
+![Can't Wait to Dance](images/rocio.gif)
+
 ### Thomas
 Your gif here!
 ### Yazan
