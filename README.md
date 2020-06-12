@@ -18,7 +18,9 @@ Your gif here!
 ### Cathy
 Your gif here!
 ### Colm
-Your gif here!
+
+![Andy from Parks & Rec gif](https://media.giphy.com/media/90F8aUepslB84/giphy.gif)
+
 ### Cong
 ![Weekly progression](images/giphy.gif)
 ### Jay
