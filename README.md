@@ -24,7 +24,9 @@ Your gif here!
 ### Cong
 ![Weekly progression](images/giphy.gif)
 ### Jay
-Your gif here!
+
+![data science!](https://storage.googleapis.com/proudcity/elglor/uploads/2019/01/giphy1-1.gif)
+
 ### John
 ![Zzz... I'm awake! I'm working!](images/jrsyguo.gif)
 ### Joshua
