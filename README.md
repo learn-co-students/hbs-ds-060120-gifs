@@ -30,7 +30,7 @@ Your gif here!
 ### John
 ![Zzz... I'm awake! I'm working!](images/jrsyguo.gif)
 ### Joshua
-Your gif here!
+![It's Friday!](https://media.giphy.com/media/sTczweWUTxLqg/200_d.gif)
 ### Kaitlin
 ![Confused dog](https://media.giphy.com/media/JfDNFU1qOZna/giphy.gif)
 ### Kyle
