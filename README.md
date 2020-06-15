@@ -56,7 +56,7 @@ Your gif here!
 ![Can't Wait to Dance](images/rocio.gif)
 
 ### Thomas
-![Sorry I'm late] (https://giphy.com/gifs/disney-alice-in-wonderland-late-dZd2D5Da1954I)
+![Sorry I'm late](https://giphy.com/gifs/disney-alice-in-wonderland-late-dZd2D5Da1954I)
 ### Yazan
 ![Friday](images/yazan.gif)
 ### Yongwei
