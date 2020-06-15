@@ -12,7 +12,7 @@ Your gif here!
 ### Andy
 ![Computers are hard](images/andy.gif)
 ### Aziz
-Your gif here!
+![Finally] (https://giphy.com/gifs/8P1oO2JbrZK2uSYnL6)
 ### Carmi
 ![friday tg](https://media.giphy.com/media/NeKB8ZR67TuV2/giphy.gif)
 ### Cathy
