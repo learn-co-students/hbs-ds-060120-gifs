@@ -42,7 +42,7 @@ Your gif here!
 ### Lingxi
 ![Don't feel like doing anything](images/lingxi.gif)
 ### Mark
-!.[dog_gifs] (https://media.giphy.com/media/RQSuZfuylVNAY/giphy.gif)
+![dog_gifs](https://media.giphy.com/media/RQSuZfuylVNAY/giphy.gif)
 ### Marta
 Your gif here!
 ### Paige
