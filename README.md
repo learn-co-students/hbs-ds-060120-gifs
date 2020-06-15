@@ -32,7 +32,7 @@ Your gif here!
 ### Joshua
 Your gif here!
 ### Kaitlin
-Your gif here!
+![Confused dog](https://giphy.com/gifs/cheezburger-JfDNFU1qOZna)
 ### Kyle
 ![This is fine.](https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif)
 ### Lindsey
