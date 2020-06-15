@@ -50,7 +50,7 @@ Your gif here!
 ### Quentin
 Your gif here!
 ### Reginald
-Your gif here!
+![Watermelon Dance](https://i.pinimg.com/originals/a6/a8/83/a6a8838f88e7af29e1a5e451cb3564a5.gif)
 ### Rocio
 
 ![Can't Wait to Dance](images/rocio.gif)
