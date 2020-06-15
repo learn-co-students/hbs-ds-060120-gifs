@@ -32,7 +32,7 @@ Your gif here!
 ### Joshua
 Your gif here!
 ### Kaitlin
-Your gif here!
+![Confused dog](https://media.giphy.com/media/JfDNFU1qOZna/giphy.gif)
 ### Kyle
 ![This is fine.](https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif)
 ### Lindsey
