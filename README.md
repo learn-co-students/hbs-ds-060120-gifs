@@ -16,7 +16,7 @@ Your gif here!
 ### Carmi
 ![friday tg](https://media.giphy.com/media/NeKB8ZR67TuV2/giphy.gif)
 ### Cathy
-Your gif here!
+![friday image](images/Cathy.jpg)
 ### Colm
 
 ![Andy from Parks & Rec gif](https://media.giphy.com/media/90F8aUepslB84/giphy.gif)
@@ -50,7 +50,7 @@ Your gif here!
 ### Quentin
 Your gif here!
 ### Reginald
-Your gif here!
+![Watermelon Dance](https://i.pinimg.com/originals/a6/a8/83/a6a8838f88e7af29e1a5e451cb3564a5.gif)
 ### Rocio
 
 ![Can't Wait to Dance](images/rocio.gif)
