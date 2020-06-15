@@ -40,7 +40,7 @@ Your gif here!
 ![I have no idea what I'm doing left shark gif from Giphy](https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif)
 
 ### Lingxi
-Your gif here!
+![Don't feel like doing anything](images/lingxi.gif)
 ### Mark
 Your gif here!
 ### Marta
