@@ -16,7 +16,7 @@ Your gif here!
 ### Carmi
 ![friday tg](https://media.giphy.com/media/NeKB8ZR67TuV2/giphy.gif)
 ### Cathy
-Your gif here!
+![friday image](images/Cathy.jpg)
 ### Colm
 
 ![Andy from Parks & Rec gif](https://media.giphy.com/media/90F8aUepslB84/giphy.gif)
