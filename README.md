@@ -8,7 +8,7 @@ Check the "Pull requests" tab to see both merged and unmerged examples of what y
 ### Adebodun
 ![Feel good Friday!](https://media.tenor.com/images/7fd0b0a6c6a9d87ab96735c918eb1e8a/tenor.gif)
 ### Ammar
-Your gif here!
+![banana gif](https://media.giphy.com/media/ZYoFTHxrWNFbW/giphy.gif)
 ### Andy
 ![Computers are hard](images/andy.gif)
 ### Aziz
